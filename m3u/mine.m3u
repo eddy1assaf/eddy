@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1,ISREAL 
+
 EXTINF:-1,YES:YES_1_HD
 http://185.71.66.108:8000/live/kees/kees/1958.ts
 EXTINF:-1,YES:YES_1_HD_(Backup)
@@ -174,7 +174,6 @@ EXTINF:-1,YES:Yam_Tihoni
 http://185.71.66.108:8000/live/kees/kees/5243.ts
 EXTINF:-1,YES:YES_Kids
 http://185.71.66.108:8000/live/kees/kees/19376.ts
-EXTINF:-1,CANADA
 EXTINF:-1,CA - A&E
 http://sunatv.co:80/live/tarik/123456/15197.ts
 EXTINF:-1,CA - ABC EAST
